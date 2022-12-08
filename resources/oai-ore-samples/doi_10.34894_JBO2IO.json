@@ -1,0 +1,254 @@
+{
+  "dcterms:modified": "2022-07-16",
+  "dcterms:creator": "DataverseNL",
+  "@type": "ore:ResourceMap",
+  "@id": "https://dataverse.nl/api/datasets/export?exporter=OAI_ORE&persistentId=doi:10.34894/JBO2IO",
+  "ore:describes": {
+    "dccd:Project Category": "palaeo-vegetation",
+    "citation:Distribution Date": "2013-01-16",
+    "Title": "Almere Overgooi, Stamerbos, veeneik. Projectnummer dendrochronologie (Stichting RING): 2012048",
+    "dccd:Taxon": "Quercus",
+    "dccd:Project Type": "dating",
+    "dccd:Principal Investigator": "M. Dominguez Delmas",
+    "Subject": [
+      "Arts and Humanities",
+      "Earth and Environmental Sciences"
+    ],
+    "dccd:Object Type": "boom",
+    "dccd:Element Type": "boom",
+    "Author": [
+      {
+        "author:Name": "Marta Dom\u00ednguez Delm\u00e1s",
+        "author:Affiliation": "Stichting RING",
+        "Identifier Scheme": "ORCID",
+        "Identifier": "0000-0001-8716-0258"
+      },
+      {
+        "author:Name": "Esther Jansma",
+        "author:Affiliation": "Stichting RING",
+        "Identifier Scheme": "ORCID",
+        "Identifier": "0000-0003-1690-2976"
+      }
+    ],
+    "citation:Description": {
+      "dsDescription:Text": "Dendrochronological research project"
+    },
+    "citation:Other ID": [
+      {
+        "otherId:Agency": "Digital Collaboratory for Cultural Dendrochronology (DCCD)",
+        "otherId:Identifier": "dccd:6805"
+      },
+      {
+        "otherId:Agency": "Stichting RING",
+        "otherId:Identifier": "P:2012048"
+      },
+      {
+        "otherId:Agency": "Stichting RING",
+        "otherId:Identifier": "OSB"
+      }
+    ],
+    "dccd:Location": {
+      "dccd-location:Latitude": "52.326764164",
+      "dccd-location:Longitude": "5.253715653"
+    },
+    "citation:Contact": {
+      "datasetContact:Name": "Jansma, E.",
+      "datasetContact:Affiliation": "Rijksdienst voor het Cultureel Erfgoed"
+    },
+    "@id": "doi:10.34894/JBO2IO",
+    "@type": [
+      "ore:Aggregation",
+      "schema:Dataset"
+    ],
+    "schema:version": "3.2",
+    "schema:name": "Almere Overgooi, Stamerbos, veeneik. Projectnummer dendrochronologie (Stichting RING): 2012048",
+    "schema:dateModified": "2022-07-16 13:02:16.757",
+    "schema:datePublished": "2021-09-27",
+    "dvcore:termsOfUse": "<img src=\"https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png\"/> Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) <a href=\"https://creativecommons.org/licenses/by-nc-nd/4.0/\">https://creativecommons.org/licenses/by-nc-nd/4.0/</a>",
+    "dvcore:fileTermsOfAccess": {
+      "dvcore:termsOfAccess": "Access can only be allowed for users who use an official email address from their professional organisation",
+      "dvcore:fileRequestAccess": true
+    },
+    "schema:includedInDataCatalog": "DataverseNL",
+    "ore:aggregates": [
+      {
+        "schema:description": "",
+        "schema:name": "2012048 Almere Overgooi, Stamerbos, veeneik.xml",
+        "dvcore:restricted": false,
+        "dvcore:directoryLabel": "originalvalues",
+        "schema:version": 1,
+        "dvcore:datasetVersionId": 22732,
+        "@id": "https://dataverse.nl/file.xhtml?fileId=184022",
+        "schema:sameAs": "https://dataverse.nl/api/access/datafile/184022",
+        "@type": "ore:AggregatedResource",
+        "schema:fileFormat": "text/xml",
+        "dvcore:filesize": 8390,
+        "dvcore:storageIdentifier": "file://17c1c9bee3d-f4f1d7d09be9",
+        "dvcore:rootDataFileId": -1,
+        "dvcore:checksum": {
+          "@type": "MD5",
+          "@value": "f33b3ce65de10fd3138935bb0119b21d"
+        }
+      },
+      {
+        "schema:description": "",
+        "schema:name": "2012048OSB adm.pdf",
+        "dvcore:restricted": false,
+        "dvcore:directoryLabel": "associated",
+        "schema:version": 1,
+        "dvcore:datasetVersionId": 22732,
+        "@id": "https://dataverse.nl/file.xhtml?fileId=184019",
+        "schema:sameAs": "https://dataverse.nl/api/access/datafile/184019",
+        "@type": "ore:AggregatedResource",
+        "schema:fileFormat": "application/pdf",
+        "dvcore:filesize": 51504,
+        "dvcore:storageIdentifier": "file://17c1c9bead1-14e42683206f",
+        "dvcore:rootDataFileId": -1,
+        "dvcore:checksum": {
+          "@type": "MD5",
+          "@value": "f9c0c6b056aa8e6950e3db432c8410c3"
+        }
+      },
+      {
+        "schema:description": "",
+        "schema:name": "2012048OSB bijlage.pdf",
+        "dvcore:restricted": false,
+        "dvcore:directoryLabel": "associated",
+        "schema:version": 1,
+        "dvcore:datasetVersionId": 22732,
+        "@id": "https://dataverse.nl/file.xhtml?fileId=184018",
+        "schema:sameAs": "https://dataverse.nl/api/access/datafile/184018",
+        "@type": "ore:AggregatedResource",
+        "schema:fileFormat": "application/pdf",
+        "dvcore:filesize": 32068,
+        "dvcore:storageIdentifier": "file://17c1c9be965-918959a07359",
+        "dvcore:rootDataFileId": -1,
+        "dvcore:checksum": {
+          "@type": "MD5",
+          "@value": "5fa41b6fbecc7b1e78d31fc8783add03"
+        }
+      },
+      {
+        "schema:description": "Lab logbook",
+        "schema:name": "Logbook 2012048 OSB.pdf",
+        "dvcore:restricted": false,
+        "schema:version": 1,
+        "dvcore:datasetVersionId": 22732,
+        "@id": "https://dataverse.nl/file.xhtml?fileId=220294",
+        "schema:sameAs": "https://dataverse.nl/api/access/datafile/220294",
+        "@type": "ore:AggregatedResource",
+        "schema:fileFormat": "application/pdf",
+        "dvcore:filesize": 596907,
+        "dvcore:storageIdentifier": "file://17e8ba81463-1a8ff7461655",
+        "dvcore:rootDataFileId": -1,
+        "dvcore:checksum": {
+          "@type": "MD5",
+          "@value": "8d32aec4eddf7cca75869bfc10b6a652"
+        }
+      },
+      {
+        "schema:description": "",
+        "schema:name": "OSB00010.fh",
+        "dvcore:restricted": false,
+        "dvcore:directoryLabel": "originalvalues",
+        "schema:version": 1,
+        "dvcore:datasetVersionId": 22732,
+        "@id": "https://dataverse.nl/file.xhtml?fileId=184021",
+        "schema:sameAs": "https://dataverse.nl/api/access/datafile/184021",
+        "@type": "ore:AggregatedResource",
+        "schema:fileFormat": "text/plain",
+        "dvcore:filesize": 792,
+        "dvcore:storageIdentifier": "file://17c1c9bed29-5257ec9dcef1",
+        "dvcore:rootDataFileId": -1,
+        "dvcore:checksum": {
+          "@type": "MD5",
+          "@value": "197ebc563e74dd128bd8669726d253b4"
+        }
+      },
+      {
+        "schema:description": "",
+        "schema:name": "OSB00011.fh",
+        "dvcore:restricted": false,
+        "dvcore:directoryLabel": "originalvalues",
+        "schema:version": 1,
+        "dvcore:datasetVersionId": 22732,
+        "@id": "https://dataverse.nl/file.xhtml?fileId=184020",
+        "schema:sameAs": "https://dataverse.nl/api/access/datafile/184020",
+        "@type": "ore:AggregatedResource",
+        "schema:fileFormat": "text/plain",
+        "dvcore:filesize": 792,
+        "dvcore:storageIdentifier": "file://17c1c9bec01-5e690ed78353",
+        "dvcore:rootDataFileId": -1,
+        "dvcore:checksum": {
+          "@type": "MD5",
+          "@value": "49d27c1adf73acf634f46c3b56647b6f"
+        }
+      },
+      {
+        "schema:description": "",
+        "schema:name": "OSB00012.fh",
+        "dvcore:restricted": false,
+        "dvcore:directoryLabel": "originalvalues",
+        "schema:version": 1,
+        "dvcore:datasetVersionId": 22732,
+        "@id": "https://dataverse.nl/file.xhtml?fileId=184023",
+        "schema:sameAs": "https://dataverse.nl/api/access/datafile/184023",
+        "@type": "ore:AggregatedResource",
+        "schema:fileFormat": "text/plain",
+        "dvcore:filesize": 730,
+        "dvcore:storageIdentifier": "file://17c1c9bef78-d5697b315e2f",
+        "dvcore:rootDataFileId": -1,
+        "dvcore:checksum": {
+          "@type": "MD5",
+          "@value": "8efbaf4e5f3a93911877a408179da007"
+        }
+      },
+      {
+        "schema:description": "",
+        "schema:name": "tridas.xml",
+        "dvcore:restricted": false,
+        "schema:version": 1,
+        "dvcore:datasetVersionId": 22732,
+        "@id": "https://dataverse.nl/file.xhtml?fileId=184017",
+        "schema:sameAs": "https://dataverse.nl/api/access/datafile/184017",
+        "@type": "ore:AggregatedResource",
+        "schema:fileFormat": "text/xml",
+        "dvcore:filesize": 22842,
+        "dvcore:storageIdentifier": "file://17c1c9be842-31a587bf882b",
+        "dvcore:rootDataFileId": -1,
+        "dvcore:checksum": {
+          "@type": "MD5",
+          "@value": "d66ef053efbd4e34795b325c29baea0e"
+        }
+      }
+    ],
+    "schema:hasPart": [
+      "https://dataverse.nl/file.xhtml?fileId=184022",
+      "https://dataverse.nl/file.xhtml?fileId=184019",
+      "https://dataverse.nl/file.xhtml?fileId=184018",
+      "https://dataverse.nl/file.xhtml?fileId=220294",
+      "https://dataverse.nl/file.xhtml?fileId=184021",
+      "https://dataverse.nl/file.xhtml?fileId=184020",
+      "https://dataverse.nl/file.xhtml?fileId=184023",
+      "https://dataverse.nl/file.xhtml?fileId=184017"
+    ]
+  },
+  "@context": {
+    "Author": "http://purl.org/dc/terms/creator",
+    "Identifier": "http://purl.org/spar/datacite/AgentIdentifier",
+    "Identifier Scheme": "http://purl.org/spar/datacite/AgentIdentifierScheme",
+    "Subject": "http://purl.org/dc/terms/subject",
+    "Title": "http://purl.org/dc/terms/title",
+    "author": "https://dataverse.org/schema/citation/author#",
+    "citation": "https://dataverse.org/schema/citation/",
+    "datasetContact": "https://dataverse.org/schema/citation/datasetContact#",
+    "dccd": "https://dataverse.nl/schema/dccd#",
+    "dccd-location": "https://dataverse.nl/schema/dccd/dccd-location#",
+    "dcterms": "http://purl.org/dc/terms/",
+    "dsDescription": "https://dataverse.org/schema/citation/dsDescription#",
+    "dvcore": "https://dataverse.org/schema/core#",
+    "ore": "http://www.openarchives.org/ore/terms/",
+    "otherId": "https://dataverse.org/schema/citation/otherId#",
+    "schema": "http://schema.org/"
+  }
+}
